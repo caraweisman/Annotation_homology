@@ -1,4 +1,4 @@
-This Github contains the results of the homology search, conducted as described in the Methods section, performed in Weisman et al 2021. These results underlie Figures 1-3. 
+This Github contains a summary of the results of the homology searches performed in Weisman et al 2021, conducted as described in the Methods section. These data underlie Figures 1-3. 
 
 There is one folder per species group used in the paper. 
 
