@@ -9,3 +9,5 @@ Each annotation's file contains one row per protein in the annotation and one co
 The entry in each row represents whether the homology search found a significantly similar protein in the annotation indicated by the column: a 1 indicates yes, and a 0 indicates no. 
 
 The annotations themselves can be downloaded from the links provided in Table 1 of the paper. 
+
+Further questions can be directed to cara.weisman@gmail.com.
